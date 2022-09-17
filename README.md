@@ -20,7 +20,7 @@ class Skills extends SoftwareEngineer {
 ```
 
 <p align="center">
-  <a href="https://github.com/rogergarciaz"><img src="https://github-readme-stats.vercel.app/api?username=rogergarciaz&hide_border=true&show_icons=true&count_private=true&theme=gotham" alt="rogergarciaz's github stats"></a>
+  <a href="https://github.com/rogergarciaz"><img src="https://github-readme-stats.vercel.app/api?username=rogergarciaz&hide_border=true&show_icons=true&count_private=true&theme=gotham&hide=issues,contribs" alt="rogergarciaz's github stats"></a>
 </p>
 
 <p align="center">
