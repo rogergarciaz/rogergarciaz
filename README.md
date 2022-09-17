@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm <a href="https://www.rogergarciaz.com">Roger Garcia</a></h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
 
-<!--
-**rogergarciaz/rogergarciaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```js
+import SoftwareEngineer from 'rogergarciaz'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Bio extends SoftwareEngineer {
+  name     = 'Roger Garcia';
+  title    = 'Software Engineer';
+  company  = 'Innovate on Demand | Remote';
+  location = 'Barranquilla, Colombia';
+}
+
+class Skills extends SoftwareEngineer {
+  languages  = ['JavaScript', 'PHP', 'Python', 'Java'];
+  databases  = ['MySQL', 'PostgreSQL', 'MongoDB'];
+  frameworks = ['React', 'Laravel', 'Django', 'Next', 'GraphQL', 'React Native'];
+}
+```
+
+<p align="center">
+  <a href="https://github.com/rogergarciaz"><img src="https://github-readme-stats.vercel.app/api?username=rogergarciaz&hide_border=true&show_icons=true" alt="rogergarciaz's github stats"></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://www.rogergarciaz.github.io">Website</a></strong> |
+  <strong><a href="https://www.instagram.com/roger_garciaz">Instagram</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/roger-alexander-garcia-zarate">LinkedIn</a></strong>
+</p>
+
+<p align="center">❤ I'm currently working on Software Development.</p>
