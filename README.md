@@ -24,9 +24,9 @@ class Skills extends SoftwareEngineer {
 </p>
 
 <p align="center">
-  <strong><a href="https://www.rogergarciaz.github.io">Website</a></strong> |
-  <strong><a href="https://www.instagram.com/roger_garciaz">Instagram</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/roger-alexander-garcia-zarate">LinkedIn</a></strong>
+  <strong><a href="https://rogergarciaz.github.io/">Website</a></strong> |
+  <strong><a href="https://instagram.com/roger_garciaz">Instagram</a></strong> |
+  <strong><a href="https://linkedin.com/in/roger-alexander-garcia-zarate">LinkedIn</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on Software Development.</p>
